@@ -27,7 +27,7 @@
 
 ## Media queries
 
-The following queries were based on frequent device screen widths encountered in websites such as
+The following queries were based on frequent device screen widths encountered in websites such as  
 [viewportsizes.com](http://viewportsizes.com/) and [screensiz.es](http://screensiz.es/):
 
 * `@media(min-width: 360px)`
