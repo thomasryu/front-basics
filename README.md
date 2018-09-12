@@ -40,3 +40,15 @@ The following queries were based on frequent device screen widths encountered in
 * `@media(min-width: 1024px)`
 * `@media(min-width: 1200px)`
 
+
+## Immediately-invoked function expression (JS)
+
+```
+(function () { /* ... */ })();
+(() => { /* ... */ })();
+```
+
+## Useful links
+
+* https://developer.mozilla.org/en-US/docs/Web/Events
+* https://github.com/wesbos/JavaScript30
